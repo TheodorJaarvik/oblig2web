@@ -5,7 +5,7 @@ function nav_Onclick() {
 
 	var img;
 	img = document.createElement("img");
-	img.src = "../pictures/IMG_20210724_001116.jpg";
+	img.src = "../../pictures/IMG_20210724_001116.jpg";
 	document.getElementById("div_bilde").appendChild(img);
 	document.getElementById("div_tekst").innerHTML =
 		"<p>" +
@@ -18,7 +18,7 @@ function nav_Onclick2() {
 
 	var img;
 	img = document.createElement("img");
-	img.src = "../pictures/IMG_20210724_000644.jpg";
+	img.src = "../../pictures/IMG_20210724_000644.jpg";
 	document.getElementById("div_bilde").appendChild(img);
 	document.getElementById("div_tekst").innerHTML =
 		"<p>" +
@@ -31,7 +31,7 @@ function nav_Onclick3() {
 
 	var img;
 	img = document.createElement("img");
-	img.src = "../pictures/IMG_0143.jpg";
+	img.src = "../../pictures/IMG_0143.jpg";
 	document.getElementById("div_bilde").appendChild(img);
 	document.getElementById("div_tekst").innerHTML =
 		"<p>" +
@@ -44,7 +44,7 @@ function nav_Onclick4() {
 
 	var img;
 	img = document.createElement("img");
-	img.src = "../pictures/IMG_0195.jpeg";
+	img.src = "../../pictures/IMG_0195.jpeg";
 	document.getElementById("div_bilde").appendChild(img);
 	document.getElementById("div_tekst").innerHTML =
 		"<p>" +
@@ -57,7 +57,7 @@ function nav_Onclick5() {
 
 	var img;
 	img = document.createElement("img");
-	img.src = "../pictures/IMG_0399.jpeg";
+	img.src = "../../pictures/IMG_0399.jpeg";
 	document.getElementById("div_bilde").appendChild(img);
 	document.getElementById("div_tekst").innerHTML =
 		"<p>" +
@@ -70,7 +70,7 @@ function nav_Onclick6() {
 
 	var img;
 	img = document.createElement("img");
-	img.src = "../pictures/krabbesholm-gucci.jpeg";
+	img.src = "../../pictures/krabbesholm-gucci.jpeg";
 	document.getElementById("div_bilde").appendChild(img);
 	document.getElementById("div_tekst").innerHTML =
 		"<p>" +
